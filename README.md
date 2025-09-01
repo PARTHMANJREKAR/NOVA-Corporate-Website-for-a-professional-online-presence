@@ -1,4 +1,4 @@
-#NOVA-Corporate-Website-for-a-professional-online-presence🌐
+# NOVA-Corporate-Website-for-a-professional-online-presence🌐
  
 A modern, responsive corporate website for **NOVA**, built with **HTML**, **JAVASCRIPT** and **CSS**.  
 The site highlights NOVA’s **Industrial Presence & Legacy** while integrating **E-Commerce functionality**.  
